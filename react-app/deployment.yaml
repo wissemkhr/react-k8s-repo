@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx-container
-        image: wissemkh1/react-web-app:v3
+        image: wissemkh1/react-web-app:v1
         ports:
         - containerPort: 5173
 
