@@ -10,4 +10,4 @@ spec:
     - protocol: TCP
       port: 80         # Port accessible inside the cluster
       targetPort: 5173   # Port on the container inside the pod
-      nodePort: 32000  # Optional: Static external port (Range: 30000-32767)
+      nodePort: 32111  # Optional: Static external port (Range: 30000-32767)
